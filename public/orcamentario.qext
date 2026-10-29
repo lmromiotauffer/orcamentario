@@ -1,0 +1,15 @@
+{
+	"type": "mashup",
+	"name": "ORÇAMENTÁRIO - Painel Orçamentário",
+	"description": "",
+	"preview": "",
+	"version": "1.0",
+	"author": "Cluster",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}

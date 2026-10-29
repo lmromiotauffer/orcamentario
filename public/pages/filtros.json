@@ -1,0 +1,13 @@
+{
+  "filterpane": [
+    { "label": "Ano", "expression": "Ano" },
+    { "label": "Adjunta", "expression": "=[Descrição da adjunta]" },
+    { "label": "Fonte", "expression": "=[Classificação da fonte]" },
+    { "label": "Região", "expression": "=[Região financeira]" },
+    { "label": "Grupo da despesa", "expression": "=[Grupo da despesa]" },
+    { "label": "Ação orçamentária", "expression": "PAOE" },
+    { "label": "Programa", "expression": "=[Descrição do programa]" },
+    { "label": "Modalidade", "expression": "=[Descrição da modalidade]" },
+    { "label": "Código da fonte", "expression": "=[Código da fonte]" }
+  ]
+}

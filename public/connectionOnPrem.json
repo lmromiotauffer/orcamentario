@@ -1,0 +1,7 @@
+{
+  "host": "demo.clusterdesign.io",
+  "isSecure": true,
+  "port": 443,
+  "prefix": "/",
+  "appId": "52ce35be-9c5d-4bb7-bd37-71bfe8024fed"
+}
